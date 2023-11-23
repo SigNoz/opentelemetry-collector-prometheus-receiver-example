@@ -1,4 +1,4 @@
-# Monitor-Flask-App-metrics-with-Prometheus-format
+# Collect Prometheus metrics from a Flask application using OpenTelemetry Collector
 This is a simple Flask application that exposes metrics in Prometheus format using the [prometheus_flask_exporter](https://github.com/rycus86/prometheus_flask_exporter).
 To run the app, you need to have Python and pip installed on your machine, then install the required dependencies.
 
